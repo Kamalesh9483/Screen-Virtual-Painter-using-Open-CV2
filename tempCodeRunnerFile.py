@@ -1,0 +1,1 @@
+cv2.drawContours(img_copy,contours,-1,(0,0,255),2)
